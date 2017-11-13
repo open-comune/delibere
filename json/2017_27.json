@@ -1,0 +1,113 @@
+{
+  "number": "27",
+  "date": "27/07/2017",
+  "subject": "ORDINE DEL GIORNO AI SENSI DELL'ART. 46 DEL REGOLAMENTO DEL CONSIGLIO\nCOMUNALE    PRESENTATO   DAL   CONSIGLIERE   LUCA  GHEZZI   -  LEGA   NORD   PER\n\nL'INDIPENDENZA DELLA PADANIA - AD OGGETTO: \"REALIZZAZIONE STRISCE PEDONALI\nSMART LUMINOSE\"\n",
+  "people": [
+    {
+      "name": "CORTI ROBERTO",
+      "was_present": true
+    },
+    {
+      "name": "TACCAGNI ACHILLE",
+      "was_present": true
+    },
+    {
+      "name": "SICURELLO MARTA",
+      "was_present": true
+    },
+    {
+      "name": "LA GRECA EMANUELA",
+      "was_present": true
+    },
+    {
+      "name": "ALBERTI ALESSIO",
+      "was_present": true
+    },
+    {
+      "name": "RICCHIUTI MARIALUISA",
+      "was_present": true
+    },
+    {
+      "name": "CICCHETTI ROCCO",
+      "was_present": true
+    },
+    {
+      "name": "RUSSI ANGELO",
+      "was_present": false
+    },
+    {
+      "name": "ARIENTI JENNY",
+      "was_present": true
+    },
+    {
+      "name": "RAVASI MARIANGELA",
+      "was_present": true
+    },
+    {
+      "name": "PEREGO SARA",
+      "was_present": true
+    },
+    {
+      "name": "SMIRAGLIA ANNUNZIATA",
+      "was_present": true
+    },
+    {
+      "name": "SALA STEFANO AMBROGIO",
+      "was_present": true
+    },
+    {
+      "name": "PASQUALI FRANCESCO",
+      "was_present": true
+    },
+    {
+      "name": "BERETTA MARCO",
+      "was_present": true
+    },
+    {
+      "name": "MARIANI SERGIO",
+      "was_present": true
+    },
+    {
+      "name": "ZANELLO MASSIMO",
+      "was_present": true
+    },
+    {
+      "name": "VILLA ANDREA",
+      "was_present": true
+    },
+    {
+      "name": "LO RE GRETA",
+      "was_present": true
+    },
+    {
+      "name": "VITALE MICHELE",
+      "was_present": false
+    },
+    {
+      "name": "GHEZZI LUCA",
+      "was_present": true
+    },
+    {
+      "name": "COMMATTEO DANIELE",
+      "was_present": false
+    },
+    {
+      "name": "MONTRASIO SARA",
+      "was_present": false
+    },
+    {
+      "name": "PACE LUCA",
+      "was_present": true
+    },
+    {
+      "name": "GARGIULO SIMONE",
+      "was_present": false
+    }
+  ],
+  "votes": {
+    "in_favor": 5,
+    "opposed": 15,
+    "abstained": 0
+  },
+  "passed": false
+}

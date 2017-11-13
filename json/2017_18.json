@@ -1,0 +1,113 @@
+{
+  "number": "18",
+  "date": "11/05/2017",
+  "subject": "ORDINE DEL GIORNO PRESENTATO DA FORZA ITALIA AD OGGETTO: \"RICHIESTA\nPER INSERIRE VILLA TITTONI NEL PATRIMONIO DELL'UNESCO\"\n\n",
+  "people": [
+    {
+      "name": "CORTI ROBERTO",
+      "was_present": true
+    },
+    {
+      "name": "TACCAGNI ACHILLE",
+      "was_present": true
+    },
+    {
+      "name": "SICURELLO MARTA",
+      "was_present": true
+    },
+    {
+      "name": "LA GRECA EMANUELA",
+      "was_present": true
+    },
+    {
+      "name": "ALBERTI ALESSIO",
+      "was_present": true
+    },
+    {
+      "name": "RICCHIUTI MARIALUISA",
+      "was_present": true
+    },
+    {
+      "name": "CICCHETTI ROCCO",
+      "was_present": true
+    },
+    {
+      "name": "RUSSI ANGELO",
+      "was_present": true
+    },
+    {
+      "name": "ARIENTI JENNY",
+      "was_present": true
+    },
+    {
+      "name": "RAVASI MARIANGELA",
+      "was_present": true
+    },
+    {
+      "name": "PEREGO SARA",
+      "was_present": false
+    },
+    {
+      "name": "SMIRAGLIA ANNUNZIATA",
+      "was_present": true
+    },
+    {
+      "name": "SALA STEFANO AMBROGIO",
+      "was_present": true
+    },
+    {
+      "name": "PASQUALI FRANCESCO",
+      "was_present": true
+    },
+    {
+      "name": "BERETTA MARCO",
+      "was_present": true
+    },
+    {
+      "name": "MARIANI SERGIO",
+      "was_present": true
+    },
+    {
+      "name": "ZANELLO MASSIMO",
+      "was_present": false
+    },
+    {
+      "name": "VILLA ANDREA",
+      "was_present": true
+    },
+    {
+      "name": "LO RE GRETA",
+      "was_present": false
+    },
+    {
+      "name": "VITALE MICHELE",
+      "was_present": true
+    },
+    {
+      "name": "GHEZZI LUCA",
+      "was_present": true
+    },
+    {
+      "name": "COMMATTEO DANIELE",
+      "was_present": true
+    },
+    {
+      "name": "MONTRASIO SARA",
+      "was_present": true
+    },
+    {
+      "name": "PACE LUCA",
+      "was_present": true
+    },
+    {
+      "name": "GARGIULO SIMONE",
+      "was_present": false
+    }
+  ],
+  "votes": {
+    "in_favor": 4,
+    "opposed": 16,
+    "abstained": 2
+  },
+  "passed": false
+}
