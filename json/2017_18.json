@@ -88,7 +88,7 @@
       "was_present": true
     },
     {
-      "name": "COMMATTEO DANIELE",
+      "name": "commatteo daniele mario",
       "was_present": true
     },
     {
@@ -108,6 +108,39 @@
     "in_favor": 4,
     "opposed": 16,
     "abstained": 2
+  },
+  "named_votes": {
+    "in_favor": [
+      "commatteo daniele mario",
+      "ghezzi luca",
+      "villa andrea",
+      "vitale michele"
+    ],
+    "opposed": [
+      "corti roberto",
+      "taccagni achille",
+      "sicurello marta",
+      "la greca emanuela",
+      "alberti alessio",
+      "ricchiuti marialuisa",
+      "cicchetti rocco",
+      "russi angelo",
+      "arienti jenny",
+      "ravasi mariangela",
+      "perego sara",
+      "smiraglia annunziata",
+      "sala stefano ambrogio",
+      "pasquali francesco",
+      "beretta marco",
+      "mariani sergio",
+      "zanello massimo",
+      "lo re greta",
+      "gargiulo simone"
+    ],
+    "abstained": [
+      "montrasio sara",
+      "pace luca"
+    ]
   },
   "passed": false
 }
