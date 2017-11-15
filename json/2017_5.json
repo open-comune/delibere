@@ -1,0 +1,146 @@
+{
+  "number": "5",
+  "date": "23/02/2017",
+  "subject": "ORDINE DEL GIORNO PRESENTATO DA FORZA ITALIA AD OGGETTO: \"TERZO\nTURNO POLIZIA LOCALE\"\n\n",
+  "people": [
+    {
+      "name": "CORTI ROBERTO",
+      "was_present": true
+    },
+    {
+      "name": "TACCAGNI ACHILLE",
+      "was_present": true
+    },
+    {
+      "name": "SICURELLO MARTA",
+      "was_present": true
+    },
+    {
+      "name": "LA GRECA EMANUELA",
+      "was_present": false
+    },
+    {
+      "name": "ALBERTI ALESSIO",
+      "was_present": true
+    },
+    {
+      "name": "RICCHIUTI MARIALUISA",
+      "was_present": true
+    },
+    {
+      "name": "CICCHETTI ROCCO",
+      "was_present": true
+    },
+    {
+      "name": "RUSSI ANGELO",
+      "was_present": true
+    },
+    {
+      "name": "ARIENTI JENNY",
+      "was_present": true
+    },
+    {
+      "name": "RAVASI MARIANGELA",
+      "was_present": true
+    },
+    {
+      "name": "PEREGO SARA",
+      "was_present": true
+    },
+    {
+      "name": "SMIRAGLIA ANNUNZIATA",
+      "was_present": true
+    },
+    {
+      "name": "SALA STEFANO AMBROGIO",
+      "was_present": true
+    },
+    {
+      "name": "PASQUALI FRANCESCO",
+      "was_present": true
+    },
+    {
+      "name": "BERETTA MARCO",
+      "was_present": true
+    },
+    {
+      "name": "MARIANI SERGIO",
+      "was_present": true
+    },
+    {
+      "name": "ZANELLO MASSIMO",
+      "was_present": true
+    },
+    {
+      "name": "VILLA ANDREA",
+      "was_present": true
+    },
+    {
+      "name": "LO RE GRETA",
+      "was_present": true
+    },
+    {
+      "name": "VITALE MICHELE",
+      "was_present": true
+    },
+    {
+      "name": "GHEZZI LUCA",
+      "was_present": true
+    },
+    {
+      "name": "commatteo daniele mario",
+      "was_present": true
+    },
+    {
+      "name": "MONTRASIO SARA",
+      "was_present": true
+    },
+    {
+      "name": "PACE LUCA",
+      "was_present": true
+    },
+    {
+      "name": "GARGIULO SIMONE",
+      "was_present": true
+    }
+  ],
+  "votes": {
+    "in_favor": 7,
+    "opposed": 15,
+    "abstained": 2
+  },
+  "named_votes": {
+    "in_favor": [
+      "commatteo daniele mario",
+      "gargiulo simone",
+      "ghezzi luca",
+      "lo re greta",
+      "villa andrea",
+      "vitale michele",
+      "zanello massimo"
+    ],
+    "opposed": [
+      "corti roberto",
+      "taccagni achille",
+      "sicurello marta",
+      "la greca emanuela",
+      "alberti alessio",
+      "ricchiuti marialuisa",
+      "cicchetti rocco",
+      "russi angelo",
+      "arienti jenny",
+      "ravasi mariangela",
+      "perego sara",
+      "smiraglia annunziata",
+      "sala stefano ambrogio",
+      "pasquali francesco",
+      "beretta marco",
+      "mariani sergio"
+    ],
+    "abstained": [
+      "montrasio sara",
+      "pace luca"
+    ]
+  },
+  "passed": false
+}
